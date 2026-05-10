@@ -1,0 +1,29 @@
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\bin\Debug\net10.0\Perceptron.exe
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\bin\Debug\net10.0\Perceptron.deps.json
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\bin\Debug\net10.0\Perceptron.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\bin\Debug\net10.0\Perceptron.dll
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\bin\Debug\net10.0\Perceptron.pdb
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.dll
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\refint\Perceptron.dll
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.pdb
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\Perceptron.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Primer semestre 2026\IA\clase 15\Perceptron\obj\Debug\net10.0\ref\Perceptron.dll
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\bin\Debug\net10.0\Perceptron.exe
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\bin\Debug\net10.0\Perceptron.deps.json
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\bin\Debug\net10.0\Perceptron.runtimeconfig.json
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\bin\Debug\net10.0\Perceptron.dll
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\bin\Debug\net10.0\Perceptron.pdb
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.AssemblyInfoInputs.cache
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.AssemblyInfo.cs
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.sourcelink.json
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.dll
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\refint\Perceptron.dll
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.pdb
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\Perceptron.genruntimeconfig.cache
+C:\Users\Danie\Documents\Jupyter\Penguins-DataSet\tarea7\Perceptron\obj\Debug\net10.0\ref\Perceptron.dll
